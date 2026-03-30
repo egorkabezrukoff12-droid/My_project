@@ -1,0 +1,29 @@
+body, html {  
+    margin:0;
+    padding: 0;
+}
+.header {
+    padding: 10px;
+    background: black;
+    width: 1400px;
+    height: 75px;
+    margin: 0 0 0 260px;
+
+}
+.container {
+    width: 200px;
+    margin: 0px;
+    font-size: 0;
+}
+.logo {
+    font-size: 14px;
+    float: left;
+}
+.menu {
+    background: red;
+    font-size: 14px;
+    float: left;
+   
+}
+.btn {
+}
